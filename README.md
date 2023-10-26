@@ -4,6 +4,7 @@
 特色(推广的一些亮点)
 ## 安装下载
 - 下载地址 https://github.com/Lrb-shanghai/fast-cache/tags
+- npm i fast-cache-lrb
 ## 快速使用
 简单接入的文档
 - 使用文档
