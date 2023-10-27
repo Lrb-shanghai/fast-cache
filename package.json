@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Lrb-shanghai/fast-cache#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "fast-cache-lrb": "^1.0.2"
   }
 }

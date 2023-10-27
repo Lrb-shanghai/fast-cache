@@ -11,6 +11,7 @@
 - 二次开发文档
 ## 交流 & 提问
 https://github.com/Lrb-shanghai/fast-cache/issues
+- QQ群、微信群(及时反馈)
 ## 关于作者
 - 个人主页
 - 收款二维码
